@@ -1,0 +1,19 @@
+.SUMBITPROFILE{
+  text-align: center;
+  margin-top: 7vh;
+  font-weight: 200;
+  font-family: cursive;
+  font-style: italic;
+
+
+}
+.Loginform{
+  text-align: center;
+  background:powderblue;
+  font-size: 16-x;
+  margin: 0;
+  padding: 10px;
+  color: aqua;
+  font-family: cursive;
+  font-weight: 300;
+}
